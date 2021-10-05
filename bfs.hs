@@ -59,7 +59,7 @@ adj_list = listArray ('a', 'h') [ ['b', 'f'],
                                   ['b'],
                                   ['a', 'c', 'g'],
                                   ['c', 'd', 'f', 'h'],
-                                  ['d', 'g'] ]
+                                  ['d', 'g'] ] 
 
 main :: IO ()
 main = do
